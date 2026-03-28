@@ -1,0 +1,26 @@
+{
+  "~~search_console": {
+    "description": "Google Search Console — search analytics, URL inspection, sitemaps",
+    "exampleServers": ["gsc-mcp"]
+  },
+  "~~analytics": {
+    "description": "Google Analytics 4 — traffic, engagement, referral sources",
+    "exampleServers": ["ga4-mcp"]
+  },
+  "~~serp_data": {
+    "description": "DataForSEO — SERP features, AIO detection, keyword data, domain analytics",
+    "exampleServers": ["dataforseo-mcp"]
+  },
+  "~~crawler": {
+    "description": "Firecrawl — page extraction, site crawling, markdown conversion",
+    "exampleServers": ["firecrawl-mcp"]
+  },
+  "~~knowledge_base": {
+    "description": "Notion — experiment tracking, GEO scores, research database",
+    "exampleServers": ["notion-mcp"]
+  },
+  "~~documents": {
+    "description": "Google Drive — experiment sheets, citation logs, score history",
+    "exampleServers": ["gdrive-mcp"]
+  }
+}

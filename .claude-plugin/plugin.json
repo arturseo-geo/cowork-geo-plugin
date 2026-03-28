@@ -1,0 +1,11 @@
+{
+  "name": "geo",
+  "version": "1.0.0",
+  "description": "Generative Engine Optimisation (GEO) plugin. Monitor AI citations, score content for AI search visibility, validate crawl parity, and optimise structured data for ChatGPT, Perplexity, and Google AI Overviews.",
+  "author": {
+    "name": "Artur Ferreira",
+    "url": "https://thegeolab.net"
+  },
+  "homepage": "https://github.com/arturseo-geo/geo-plugin",
+  "license": "MIT"
+}
