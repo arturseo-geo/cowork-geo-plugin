@@ -103,4 +103,4 @@ where 20+ controlled GEO experiments are actively running. The 30-check citation
 
 ---
 
-MIT License · [thegeolab.net](https://thegeolab.net) · [@TheGEO_Lab](https://x.com/TheGEO_Lab)
+From the [GEO Lab experiment series](https://thegeolab.net/geo-experiments/) by [Artur Ferreira](https://thegeolab.net/about/)
